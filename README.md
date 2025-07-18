@@ -46,7 +46,7 @@ ML-based web app to suggest best crops based on soil and environmental condition
 
 - LinkedIn: [linkedin.com/in/shivaprasath]([https://www.linkedin.com/in/shivaprasath](https://www.linkedin.com/in/shiva-prasath-749361260/))
 - GitHub: [github.com/your-username](https://github.com/your-username) <!-- replace this -->
-- Portfolio (Coming Soon): **shiva-portfolio.dev**
+- Portfolio : [Shivaprasath Personal portfolio](https://shiva1021-crypto.github.io/portfolio/)
 - Email: **shivaprasath.it@gmail.com** *(replace with your actual)*
 
 ## 📈 GitHub Stats
